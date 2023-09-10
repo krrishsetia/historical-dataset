@@ -20,7 +20,7 @@ pd.options.display.max_rows = 10000000
 
 
 
-data = pd.read_csv('csv files/ages_dataset.csv')
+data = pd.read_csv('ages_dataset.csv')
 
 
 def int_conversion(var):
